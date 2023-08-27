@@ -1196,3 +1196,4 @@
 172.23.0.1 - - [21/Aug/2023:09:17:25 +0000] "GET /favicon.ico HTTP/1.1" 200 9614 "http://localhost/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
 172.23.0.1 - - [22/Aug/2023:09:21:41 +0000] "GET /favicon.ico HTTP/1.1" 200 8226 "http://localhost/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
 172.23.0.1 - - [22/Aug/2023:09:31:43 +0000] "GET / HTTP/1.0" 200 8493 "-" "Expanse, a Palo Alto Networks company, searches across the global IPv4 space multiple times per day to identify customers&#39; presences on the Internet. If you would like to be excluded from our scans, please send IP addresses/domains to: scaninfo@paloaltonetworks.com"
+172.18.0.1 - - [27/Aug/2023:11:03:58 +0000] "GET / HTTP/1.1" 200 5029 "-" "Hello World"
