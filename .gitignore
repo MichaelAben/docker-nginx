@@ -2,3 +2,4 @@
 /docker/mysql
 /.idea
 /docker/nginx/logs
+/docker/nginx/default.conf
